@@ -1,4 +1,4 @@
-# RF-Low-pass-filter-1.75GHz
+# RF Low pass filter 1.75GHz
 
 Este trabalho apresenta o projeto, modelagem e simulação de um filtro passa-baixas 
 Butterworth de 3ª ordem em tecnologia de microfita, utilizando técnicas de transformador de 
